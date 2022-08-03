@@ -29,6 +29,6 @@ IF
   
 ELSE
 
-  Contact me! @ZLaTheGod on twitter!
+  Contact me! @Rodrig0Valdes on twitter!
 
 To the MOON!! 🌑🚀
