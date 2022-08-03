@@ -22,9 +22,13 @@ Also Work on Matlab and simulink 📉📈
 
 
 Currently Working on a Self Stabilizing Model Rocket 🚀🚀
+
 IF
+
   you love my work leave a star ⭐
+  
 ELSE
+
   Contact me! @ZLaTheGod on twitter!
 
 To the MOON!! 🌑🚀
