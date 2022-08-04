@@ -1,4 +1,4 @@
-# Rodrigo-Valdess
+# Rodrigo Valdes
 
 ---- Hello World, My name is Rodrigo Valdes and I am currently 15 years old ----
 
