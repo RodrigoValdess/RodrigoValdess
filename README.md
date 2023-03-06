@@ -1,6 +1,6 @@
 # Rodrigo Valdes
 
----- Hello World, My name is Rodrigo Valdes and I am currently 15 years old ----
+---- Hello World, My name is Rodrigo Valdes and I am currently 16 years old ----
 
 
 ===  I am a self taught programmer and self taught embedded developer ===
